@@ -1,12 +1,8 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
+<code>👷 Speciality: Frontend Developer</code><br>
+<code>💡 [Skills](SKILLS.md)</code><br>
+<code>🧻 [Projects](PROJECTS.md)</code><br>
+<code>🧑‍💻 Languages: JavaScript</code><br>
+<code>📦 Tech stack: TS, VUE</code><br>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@your-nikname](https://telegram.me/@And1Ray)</code><br>
+<code>📫 [your-email](mailto:and1ray1993@gmail.com)</code>
