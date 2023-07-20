@@ -1,3 +1,4 @@
+<code>🖖 Name: Andrey Petukhov</code><br>
 <code>💻 Job: Vitrina TV LLC</code><br>
 <code>👷 Speciality: Frontend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code><br>
