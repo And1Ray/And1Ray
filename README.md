@@ -1,7 +1,6 @@
 <code>🖖 Name: Andrey Petukhov</code><br>
 <code>💻 Job: Vitrina TV LLC</code><br>
 <code>👷 Speciality: Frontend Developer</code><br>
-<code>💡 [Skills](SKILLS.md)</code><br>
 <code>🧻 [Projects](PROJECTS.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code><br>
 <code>📦 Tech stack: TS, VUE, SCSS</code><br>
